@@ -17,7 +17,7 @@ numeroTotalDeDados = 20000
 #Gerar dados falsos apartir da biblioteca Faker
 gerarDadoFalso = Faker()
 
-# Lista de codigos de Paises da america do sul
+# Lista de codigos de Paises
 listaDePaises = [
                     "AR", "BO", "BR", "CL", "CO", "EC", "GF", "GY", "PE", "PY", "SR", "UY", "VE", #America do Sul
                     "CA", "US", "MX", #America do norte
